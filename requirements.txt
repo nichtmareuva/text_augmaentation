@@ -1,0 +1,5 @@
+pip install 'transformers[torch]'
+ИЛИ
+pip install 'transformers[tf-cpu]'
+ИЛИ
+pip install 'transformers[flax]'
